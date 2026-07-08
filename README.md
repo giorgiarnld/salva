@@ -1,6 +1,6 @@
 # reading-tracker
 
 ## Overview
-Reading progress tracker
+Reading progress tracker inside
 
 
