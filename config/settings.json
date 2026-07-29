@@ -1,0 +1,6 @@
+{
+  "default_status": "Reading",
+  "auto_save": true,
+  "export_format": "csv",
+  "show_percentage": true
+}
